@@ -1,3 +1,5 @@
+# A copy of  with slight modifications from  https://github.com/shageman/gotestit.git
+
 # Go Test It [![Build Status](https://travis-ci.org/shageman/gotestit.png?branch=master)](https://travis-ci.org/shageman/gotestit)
 
 Summary from the July presentation: There are a couple of interesting testing libraries in go. "testing" comes with the standard library, and gives only very basic support for asserting facts.
