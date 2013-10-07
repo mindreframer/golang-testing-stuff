@@ -4,3 +4,4 @@ https://github.com/orfjackal/gospec.git
 https://github.com/pranavraja/zen.git
 https://github.com/remogatto/prettytest.git
 https://github.com/stretchr/testify.git
+https://github.com/r7kamura/gospel.git
