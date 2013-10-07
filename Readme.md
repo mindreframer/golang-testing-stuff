@@ -292,6 +292,10 @@ https://code.google.com/p/go-wiki/wiki/Projects#Testing
       BDD testing framework for Go
        28 commits, last change: 2013-07-11 06:26:13, 4 stars, 0 forks
 
+    r7kamura/gospel:
+      BDD-style testing library for Golang
+       27 commits, last change: 2013-10-06 06:41:48, 39 stars, 1 forks
+
     remogatto/prettytest:
       A simple testing library for Go
        53 commits, last change: 2013-07-25 02:06:01, 57 stars, 7 forks
