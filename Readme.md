@@ -278,19 +278,19 @@ https://code.google.com/p/go-wiki/wiki/Projects#Testing
 
     bmatsuo/go-spec:
       Another interpretation of RSpec for Go (golang)
-       30 commits, last change: 2011-11-03 10:20:02, 6 stars, 0 forks
+       30 commits, last change: 2011-11-03 10:20:02, 7 stars, 0 forks
 
     cloudfoundry/gosteno:
 
-       62 commits, last change: 2013-08-20 09:45:10, 4 stars, 4 forks
+       64 commits, last change: , 5 stars, 4 forks
 
     orfjackal/gospec:
       Testing framework for Go. Allows writing self-documenting tests/specifications, and executes them concurrently and safely isolated.
-       200 commits, last change: 2012-03-28 13:39:27, 83 stars, 15 forks
+       200 commits, last change: 2012-03-28 13:39:27, 93 stars, 16 forks
 
     pranavraja/zen:
       BDD testing framework for Go
-       28 commits, last change: 2013-07-11 06:26:13, 4 stars, 0 forks
+       31 commits, last change: 2013-09-16 18:55:24, 20 stars, 1 forks
 
     r7kamura/gospel:
       BDD-style testing library for Golang
@@ -298,9 +298,13 @@ https://code.google.com/p/go-wiki/wiki/Projects#Testing
 
     remogatto/prettytest:
       A simple testing library for Go
-       53 commits, last change: 2013-07-25 02:06:01, 57 stars, 7 forks
+       61 commits, last change: 2013-09-30 13:08:07, 72 stars, 7 forks
+
+    smartystreets/goconvey:
+      Awesome BDD testing in Go
+       239 commits, last change: 2013-10-06 15:35:23, 42 stars, 0 forks
 
     stretchr/testify:
       A sacred extension to the standard go testing package
-       71 commits, last change: 2013-08-09 12:38:30, 94 stars, 5 forks
+       78 commits, last change: 2013-09-26 09:09:53, 120 stars, 7 forks
 <!-- PROJECTS_LIST_END -->
