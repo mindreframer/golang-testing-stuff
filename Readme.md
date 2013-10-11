@@ -292,6 +292,10 @@ https://code.google.com/p/go-wiki/wiki/Projects#Testing
       BDD testing framework for Go
        31 commits, last change: 2013-09-16 18:55:24, 20 stars, 1 forks
 
+    qur/withmock:
+      Automatic Go package mocking tool
+       56 commits, last change: 2013-10-02 13:48:09, 9 stars, 1 forks
+
     r7kamura/gospel:
       BDD-style testing library for Golang
        27 commits, last change: 2013-10-06 06:41:48, 39 stars, 1 forks
