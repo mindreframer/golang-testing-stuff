@@ -284,6 +284,10 @@ https://code.google.com/p/go-wiki/wiki/Projects#Testing
 
        64 commits, last change: , 5 stars, 4 forks
 
+    onsi/ginkgo:
+      BDD Testing Framework for Go
+       97 commits, last change: 2013-10-22 06:52:55, 125 stars, 4 forks
+
     orfjackal/gospec:
       Testing framework for Go. Allows writing self-documenting tests/specifications, and executes them concurrently and safely isolated.
        200 commits, last change: 2012-03-28 13:39:27, 93 stars, 16 forks
