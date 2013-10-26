@@ -278,11 +278,11 @@ https://code.google.com/p/go-wiki/wiki/Projects#Testing
 
     bmatsuo/go-spec:
       Another interpretation of RSpec for Go (golang)
-       30 commits, last change: 2011-11-03 10:20:02, 7 stars, 0 forks
+       30 commits, last change: 2011-11-03 10:20:02, 8 stars, 1 forks
 
     cloudfoundry/gosteno:
 
-       64 commits, last change: , 5 stars, 4 forks
+       64 commits, last change: 2013-09-23 15:08:41, 5 stars, 4 forks
 
     onsi/ginkgo:
       BDD Testing Framework for Go
@@ -290,29 +290,29 @@ https://code.google.com/p/go-wiki/wiki/Projects#Testing
 
     orfjackal/gospec:
       Testing framework for Go. Allows writing self-documenting tests/specifications, and executes them concurrently and safely isolated.
-       200 commits, last change: 2012-03-28 13:39:27, 93 stars, 16 forks
+       200 commits, last change: 2012-03-28 13:39:27, 93 stars, 17 forks
 
     pranavraja/zen:
       BDD testing framework for Go
-       31 commits, last change: 2013-09-16 18:55:24, 20 stars, 1 forks
+       31 commits, last change: 2013-09-16 18:55:24, 21 stars, 1 forks
 
     qur/withmock:
       Automatic Go package mocking tool
-       56 commits, last change: 2013-10-02 13:48:09, 9 stars, 1 forks
+       114 commits, last change: 2013-10-19 17:06:25, 12 stars, 1 forks
 
     r7kamura/gospel:
       BDD-style testing library for Golang
-       27 commits, last change: 2013-10-06 06:41:48, 39 stars, 1 forks
+       31 commits, last change: 2013-10-14 10:00:00, 47 stars, 1 forks
 
     remogatto/prettytest:
       A simple testing library for Go
-       61 commits, last change: 2013-09-30 13:08:07, 72 stars, 7 forks
+       61 commits, last change: 2013-09-30 04:11:26, 74 stars, 7 forks
 
     smartystreets/goconvey:
-      Awesome BDD testing in Go
-       239 commits, last change: 2013-10-06 15:35:23, 42 stars, 0 forks
+      Go testing in your browser. Integrates with `go test`. Powers BDD/TDD/Acceptance tests. "It's a joy writing tests with GoConvey!"
+       291 commits, last change: 2013-10-25 13:21:24, 107 stars, 1 forks
 
     stretchr/testify:
       A sacred extension to the standard go testing package
-       78 commits, last change: 2013-09-26 09:09:53, 120 stars, 7 forks
+       79 commits, last change: 2013-10-14 10:51:42, 125 stars, 7 forks
 <!-- PROJECTS_LIST_END -->
