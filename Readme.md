@@ -20,6 +20,10 @@
       Minimal and Beautiful Go testing framework
        75 commits, last change: 2013-10-21 17:00:07, 46 stars, 2 forks
 
+    gophertown/looper:
+      Autotesting tool with readline support.
+       77 commits, last change: 2013-11-13 20:17:09, 86 stars, 3 forks
+
     onsi/ginkgo:
       BDD Testing Framework for Go
        97 commits, last change: 2013-10-22 06:52:55, 125 stars, 4 forks
