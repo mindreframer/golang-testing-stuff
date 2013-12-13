@@ -9,3 +9,4 @@ https://github.com/r7kamura/gospel.git
 https://github.com/remogatto/prettytest.git
 https://github.com/smartystreets/goconvey.git
 https://github.com/stretchr/testify.git
+https://github.com/gophertown/looper.git
