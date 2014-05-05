@@ -10,51 +10,51 @@
 
     bmatsuo/go-spec:
       Another interpretation of RSpec for Go (golang)
-       30 commits, last change: 2011-11-03 10:20:02, 8 stars, 1 forks
+       30 commits, last change: , 9 stars, 1 forks
 
     cloudfoundry/gosteno:
 
-       64 commits, last change: 2013-09-23 15:08:41, 5 stars, 4 forks
+       74 commits, last change: , 8 stars, 5 forks
 
     franela/goblin:
       Minimal and Beautiful Go testing framework
-       75 commits, last change: 2013-10-21 17:00:07, 46 stars, 2 forks
+       114 commits, last change: , 118 stars, 7 forks
 
     gophertown/looper:
       Autotesting tool with readline support.
-       77 commits, last change: 2013-11-13 20:17:09, 86 stars, 3 forks
+       77 commits, last change: , 91 stars, 4 forks
 
     onsi/ginkgo:
       BDD Testing Framework for Go
-       97 commits, last change: 2013-10-22 06:52:55, 125 stars, 4 forks
+       258 commits, last change: , 308 stars, 18 forks
 
     orfjackal/gospec:
       Testing framework for Go. Allows writing self-documenting tests/specifications, and executes them concurrently and safely isolated.
-       200 commits, last change: 2012-03-28 13:39:27, 93 stars, 17 forks
+       200 commits, last change: , 105 stars, 18 forks
 
     pranavraja/zen:
       BDD testing framework for Go
-       31 commits, last change: 2013-09-16 18:55:24, 21 stars, 1 forks
+       31 commits, last change: , 23 stars, 1 forks
 
     qur/withmock:
-      Automatic Go package mocking tool
-       114 commits, last change: 2013-10-19 17:06:25, 12 stars, 1 forks
+      Automatic Go package mock generation tool
+       191 commits, last change: , 29 stars, 4 forks
 
     r7kamura/gospel:
       BDD-style testing library for Golang
-       31 commits, last change: 2013-10-14 10:00:00, 47 stars, 1 forks
+       37 commits, last change: , 58 stars, 3 forks
 
     remogatto/prettytest:
       A simple testing library for Go
-       61 commits, last change: 2013-09-30 04:11:26, 74 stars, 7 forks
+       65 commits, last change: , 97 stars, 8 forks
 
     smartystreets/goconvey:
-      Go testing in your browser. Integrates with `go test`. Powers BDD/TDD/Acceptance tests. "It's a joy writing tests with GoConvey!"
-       291 commits, last change: 2013-10-25 13:21:24, 107 stars, 1 forks
+      Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
+       682 commits, last change: , 862 stars, 58 forks
 
     stretchr/testify:
       A sacred extension to the standard go testing package
-       79 commits, last change: 2013-10-14 10:51:42, 125 stars, 7 forks
+       124 commits, last change: , 266 stars, 23 forks
 <!-- PROJECTS_LIST_END -->
 
 
